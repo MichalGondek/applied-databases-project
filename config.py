@@ -4,12 +4,12 @@ MYSQL_CONFIG = {
     'host': 'localhost',
     'user': 'root',
     'password': 'dppassword',
-    'database': 'applieddb_project'
+    'database': 'appdbproj'
 }
 
-NOE4J_CONFIG = {
+NEO4J_CONFIG = {
     'uri': 'bolt://localhost:7687',
     'user': 'neo4j',
-    'password': 'dppassword',
+    'password': 'YOUR_PASSWORD',
     'database': 'attendeeNetwork'
 }
